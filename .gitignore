@@ -132,3 +132,5 @@ dmypy.json
 .vscode/
 .notes.txt
 themis_data/
+
+pyspedas_examples/notebooks/barrel_data
